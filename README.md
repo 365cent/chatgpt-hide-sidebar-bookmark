@@ -6,3 +6,4 @@ javascript:(function()%7Bdocument.querySelector%28".flex-1.flex-col"%29.style.pa
 
 ## Usage
 Create a new bookmark, modify the link of it to the code above.
+Then, whenever you want to hide the sidebar when using ChatGPT, simply click the link you have just bookmarked.
