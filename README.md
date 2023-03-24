@@ -1,0 +1,1 @@
+# chatgpt-hide-sidebar-bookmark
