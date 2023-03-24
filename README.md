@@ -5,5 +5,4 @@ javascript:(function()%7Bdocument.querySelector%28".flex-1.flex-col"%29.style.pa
 ```
 
 ## Usage
-Create a new bookmark, modify the link of it to the code above.
-Then, whenever you want to hide the sidebar when using ChatGPT, simply click the link you have just bookmarked.
+To easily hide the sidebar when using ChatGPT, you can create a new bookmark and update its link with the code above. Afterwards, whenever you need to hide the sidebar, you can simply click on the bookmarked link.
